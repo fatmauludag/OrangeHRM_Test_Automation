@@ -29,8 +29,4 @@ This repository contains automated test cases for the OrangeHRM system using Sel
 - Search results should correctly reflect employee details.
 - Deleted employees should no longer appear in the Employee List.
 
-## Installation
 
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
